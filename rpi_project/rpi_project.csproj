@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="control.cs" />
+    <Compile Include="execute.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
