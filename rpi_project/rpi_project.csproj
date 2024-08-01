@@ -48,6 +48,10 @@
   <ItemGroup>
     <Compile Include="Connection.cs" />
     <Compile Include="control.cs" />
+<<<<<<< HEAD
+=======
+    <Compile Include="execute.cs" />
+>>>>>>> Update rpi_project.csproj
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
